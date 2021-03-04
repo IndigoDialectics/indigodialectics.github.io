@@ -1,0 +1,17 @@
+.header {
+	background-color: #800080;
+	text-align: center;
+}
+
+h1   {
+	color: #FF00FF;
+	font-family: serif;
+	text-align: center;
+}
+
+body {
+	background-color: #24003F;
+	color: #EE82EE;
+	font-size: 12pt;
+	font-family: sans-serif;
+}
